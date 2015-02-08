@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=lastName
+comment0.target=Name(java.lang.String)
+comment0.text=\r\n\ Sets\ the\ lastName\ variable\ to\ the\ parameter\ that\ is\r\n\ passed\ to\ the\ constructor\r\n\r\n\ @param\ lastName\ A\ parameter\r\n
+comment1.params=lastName
+comment1.target=void\ setLastName(java.lang.String)
+comment1.text=\r\n\ Sets\ lastName\ to\ a\ string\ variable\r\n\r\n\ @param\ lastName\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ getLastName()
+comment2.text=\r\n\ Returns\ that\ variable\ lastName\r\n\r\n\ @return\ lastName\r\n
+numComments=3

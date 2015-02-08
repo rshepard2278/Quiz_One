@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Student()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Student\r\n
+comment1.params=age
+comment1.target=void\ setAge(int)
+comment1.text=\r\n\ Sets\ the\ age\ variable\ to\ the\ parameter\ age\r\n\r\n\ @param\ age\ \r\n
+comment2.params=cost
+comment2.target=void\ setCost(double)
+comment2.text=\r\n\ Sets\ the\ cost\ variable\ to\ the\ parameter\ cost\r\n\r\n\ @param\ cost\ \r\n
+comment3.params=lastName
+comment3.target=void\ setLastName(java.lang.String)
+comment3.text=\r\n\ Sets\ the\ lastName\ field\ of\ the\ name\ object\ to\ the\ parameter\ lastName\r\n\r\n\ @param\ lastName\ \r\n
+comment4.params=
+comment4.target=int\ getAge()
+comment4.text=\r\n\ Returns\ the\ value\ of\ the\ age\ variable\r\n\r\n\ @return\ age\r\n
+comment5.params=
+comment5.target=double\ getCost()
+comment5.text=\r\n\ Returns\ the\ value\ of\ the\ cost\ variable\r\n\r\n\ @return\ cost\r\n
+comment6.params=
+comment6.target=java.lang.String\ getLastName()
+comment6.text=\r\n\ returns\ The\ lastName\ field\ of\ the\ lastName\ object\r\n\r\n\ @return\ The\ lastName\ field\ of\ the\ lastName\ object\r\n
+comment7.params=
+comment7.target=void\ addTax()
+comment7.text=\r\n\ This\ method\ has\ a\ locally-scoped\ constant\ and\ variable\ that\ \r\n\ are\ used\ to\ calculate\ tax\ and\ add\ that\ amount\ to\ the\ cost\ field\r\n
+numComments=8
